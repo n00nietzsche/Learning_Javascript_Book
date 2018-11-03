@@ -1,0 +1,15 @@
+﻿# npm debug log
+npm-debug.log*
+
+# project dependency
+node_modules
+
+# macOS 폴더 속성
+.DS_Store
+
+# 임시 파일
+*.tmp
+*~
+
+#paperjs 라이브러리
+/paperjs*/
